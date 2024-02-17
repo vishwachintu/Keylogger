@@ -1,0 +1,18 @@
+2023-10-04 18:37:01,331: This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+2023-10-04 18:37:48,755: This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+2023-10-04 18:38:05,717: Key.backspace
+2023-10-04 18:38:06,015: 'h'
+2023-10-04 18:38:06,135: 'e'
+2023-10-04 18:38:06,300: 'l'
+2023-10-04 18:38:06,446: 'l'
+2023-10-04 18:38:06,581: 'o'
+2023-10-04 18:38:06,701: Key.space
+2023-10-04 18:38:06,886: 'b'
+2023-10-04 18:38:07,159: 'o'
+2023-10-04 18:38:07,415: 'y'
+2023-10-04 18:38:07,554: Key.space
+2023-10-04 18:38:08,089: Key.enter
+2023-10-04 18:38:21,259: Key.enter
+2023-10-04 18:38:21,426: Key.enter
+2023-10-04 18:38:21,607: Key.enter
+2023-10-04 18:38:21,777: Key.enter
